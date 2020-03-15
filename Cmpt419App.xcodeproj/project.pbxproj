@@ -14,6 +14,7 @@
 		F91A6C49241DCDA200744B9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F91A6C48241DCDA200744B9F /* Preview Assets.xcassets */; };
 		F91A6C4C241DCDA200744B9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F91A6C4A241DCDA200744B9F /* LaunchScreen.storyboard */; };
 		F9FFA745241DE6BE005B0D48 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FFA744241DE6BE005B0D48 /* ImagePicker.swift */; };
+		F9FFA747241DECC7005B0D48 /* PhotoCaptureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FFA746241DECC7005B0D48 /* PhotoCaptureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F91A6C4B241DCDA200744B9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F91A6C4D241DCDA200744B9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9FFA744241DE6BE005B0D48 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		F9FFA746241DECC7005B0D48 /* PhotoCaptureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCaptureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				F91A6C4D241DCDA200744B9F /* Info.plist */,
 				F91A6C47241DCDA200744B9F /* Preview Content */,
 				F9FFA744241DE6BE005B0D48 /* ImagePicker.swift */,
+				F9FFA746241DECC7005B0D48 /* PhotoCaptureView.swift */,
 			);
 			path = Cmpt419App;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				F9FFA745241DE6BE005B0D48 /* ImagePicker.swift in Sources */,
 				F91A6C42241DCDA200744B9F /* SceneDelegate.swift in Sources */,
 				F91A6C44241DCDA200744B9F /* ContentView.swift in Sources */,
+				F9FFA747241DECC7005B0D48 /* PhotoCaptureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
