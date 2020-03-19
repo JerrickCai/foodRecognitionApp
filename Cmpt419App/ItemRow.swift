@@ -12,7 +12,6 @@ struct ItemRow : View {
     var item: MenuItem
     
     static let colors: [String: Color] = ["D": .purple, "G": .black, "N": .red, "S": .blue, "V": .green]
-
     
     var body: some View {
         NavigationLink(destination: ItemDetail(item: item)) {
@@ -36,8 +35,6 @@ struct ItemRow : View {
                         .clipShape(Circle())
                         .foregroundColor(.white)
                 }
-                
-                
             }
         }
     }

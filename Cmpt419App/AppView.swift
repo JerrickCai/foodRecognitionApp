@@ -17,11 +17,17 @@ struct AppView: View {
                     Text("Menu")
                 }
 
-            OrderView()
+            ScanView()
                 .tabItem {
-                    Image(systemName: "square.and.pencil")
-                    Text("Order")
+                    Image(systemName: "camera")
+                    Text("Scan")
                 }
+            
+            OrderView()
+            .tabItem {
+                Image(systemName: "square.and.pencil")
+                Text("Order")
+            }
         }
     }
 }

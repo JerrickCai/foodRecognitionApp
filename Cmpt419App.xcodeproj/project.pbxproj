@@ -22,6 +22,7 @@
 		F9D33DD42422DEFC002E2BF7 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D33DD32422DEFC002E2BF7 /* OrderView.swift */; };
 		F9D33DD62422DF72002E2BF7 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D33DD52422DF72002E2BF7 /* AppView.swift */; };
 		F9D33DD82422E0C3002E2BF7 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D33DD72422E0C3002E2BF7 /* CheckoutView.swift */; };
+		F9D33DDA242417D1002E2BF7 /* ScanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D33DD9242417D1002E2BF7 /* ScanView.swift */; };
 		F9FFA745241DE6BE005B0D48 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FFA744241DE6BE005B0D48 /* ImagePicker.swift */; };
 		F9FFA747241DECC7005B0D48 /* PhotoCaptureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FFA746241DECC7005B0D48 /* PhotoCaptureView.swift */; };
 /* End PBXBuildFile section */
@@ -44,6 +45,7 @@
 		F9D33DD32422DEFC002E2BF7 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		F9D33DD52422DF72002E2BF7 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
 		F9D33DD72422E0C3002E2BF7 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		F9D33DD9242417D1002E2BF7 /* ScanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanView.swift; sourceTree = "<group>"; };
 		F9FFA744241DE6BE005B0D48 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		F9FFA746241DECC7005B0D48 /* PhotoCaptureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCaptureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -96,6 +98,7 @@
 				F9D33DD32422DEFC002E2BF7 /* OrderView.swift */,
 				F9D33DD52422DF72002E2BF7 /* AppView.swift */,
 				F9D33DD72422E0C3002E2BF7 /* CheckoutView.swift */,
+				F9D33DD9242417D1002E2BF7 /* ScanView.swift */,
 			);
 			path = Cmpt419App;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				F9D33DCB2422C8B8002E2BF7 /* Menu.swift in Sources */,
 				F91A6C42241DCDA200744B9F /* SceneDelegate.swift in Sources */,
 				F91A6C44241DCDA200744B9F /* ContentView.swift in Sources */,
+				F9D33DDA242417D1002E2BF7 /* ScanView.swift in Sources */,
 				F9D33DD82422E0C3002E2BF7 /* CheckoutView.swift in Sources */,
 				F9FFA747241DECC7005B0D48 /* PhotoCaptureView.swift in Sources */,
 				F9D33DD62422DF72002E2BF7 /* AppView.swift in Sources */,
