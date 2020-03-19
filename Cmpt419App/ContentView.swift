@@ -14,47 +14,61 @@ struct ContentView: View {
     @State private var image: Image? = nil
     @State private var useCamera: Bool = false
     
+    let menu = Bundle.main.decode([MenuSection].self, from: "menu.json")
+    
     var body: some View {
         VStack {
             
-            image?.resizable()
-            .scaledToFit()
-                .frame(width: 200, height: 200)
-                .border(Color.black, width: 1)
-                .clipped()
-            
-            Text("Hello, Welcome!")
-                .font(.title).foregroundColor(Color.red)
-                
-            Button(action: {
-                self.showImagePicker = true
-                self.useCamera = true
-            }) {
-                HStack(spacing: 10) {
-                    Image(systemName: "camera.fill")
-                    Text("Take a photo of ur food")
-                }.padding()
-                    .background(Color.pink)
-                    .foregroundColor(Color.white)
-                    .cornerRadius(10)
-                
-            }.sheet(isPresented: self.$showImagePicker) {
-                PhotoCaptureView(showImagePicker: self.$showImagePicker, image: self.$image, useCamera: self.$useCamera)
+            NavigationView {
+                List {
+                    ForEach(menu) { section in
+                        Section(header: Text(section.name)) {
+                            ForEach(section.items) { item in
+                                ItemRow(item: item)
+                            }
+                        }
+                    }
+                }
+                .navigationBarTitle("Shopping Cart")
+                .listStyle(GroupedListStyle())
+                .navigationBarItems( trailing:
+                    HStack {
+                        
+                        Button(action: {
+                            self.showImagePicker = true
+                            self.useCamera = true
+                        }) {
+                            HStack(spacing: 5) {
+                                Image(systemName: "camera.fill")
+                                //Text("Take Photo")
+                            }.padding()
+                                .background(Color.pink)
+                                .foregroundColor(Color.white)
+                                .cornerRadius(10)
+                            
+                        }.sheet(isPresented: self.$showImagePicker) {
+                            PhotoCaptureView(showImagePicker: self.$showImagePicker, image: self.$image, useCamera: self.$useCamera)
+                        }
+                        
+                        Button(action: {
+                            self.showImagePicker = true
+                        }) {
+                            HStack(spacing: 5) {
+                                Image(systemName: "photo.fill.on.rectangle.fill")
+                                //Text("Import Photo")
+                            }.padding()
+                                .background(Color.orange)
+                                .foregroundColor(Color.white)
+                                .cornerRadius(10)
+                        }.sheet(isPresented: self.$showImagePicker) {
+                            PhotoCaptureView(showImagePicker: self.$showImagePicker, image: self.$image, useCamera: self.$useCamera)
+                        }
+                            
+                        
+                    }
+                )
             }
-            
-            Button(action: {
-                self.showImagePicker = true
-            }) {
-                HStack(spacing: 10) {
-                    Image(systemName: "photo.fill.on.rectangle.fill")
-                    Text("Import a photo from library")
-                }.padding()
-                    .background(Color.orange)
-                .foregroundColor(Color.white)
-                .cornerRadius(10)
-            }.sheet(isPresented: self.$showImagePicker) {
-                PhotoCaptureView(showImagePicker: self.$showImagePicker, image: self.$image, useCamera: self.$useCamera)
-            }
+                        
         }
     }
 }
