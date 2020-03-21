@@ -23,7 +23,7 @@ struct MenuItem: Codable, Equatable, Identifiable {
     var description: String
 
     var mainImage: String {
-        name.replacingOccurrences(of: " ", with: "-").lowercased()
+        "Maple French Toast".replacingOccurrences(of: " ", with: "-").lowercased()
     }
 
     var thumbnailImage: String {

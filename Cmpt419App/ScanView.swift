@@ -75,6 +75,8 @@ struct ScanView: View {
                                                 let data = JSON["data"] as! [String: Any]
                                                 self.someInts = data["labels"]! as! [Int]
                                                 
+                                                print("Index: \(self.someInts[0])")
+                                                
                                                 var imageUrl:String = data["image"]! as! String
                                                 imageUrl = "http://127.0.0.1:5000/" + imageUrl
                                                 
@@ -117,10 +119,10 @@ struct ScanView: View {
                         Text("Import or Take a Photo")
                     }else{
                         ForEach(someInts, id: \.self) { number in
-                            Text(self.menu[number].items[2].name)
+                            Text(self.menu[0].items[number].name)
                         }
-                            
-                        NavigationLink(destination: ItemDetail(item: menu[1].items[2])) {
+                        
+                        NavigationLink(destination: ItemDetail(item: menu[0].items[self.someInts[0]])) {
                             Text("Place Order")
                         }
                     }
