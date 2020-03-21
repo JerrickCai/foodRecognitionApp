@@ -15,7 +15,7 @@ struct ItemDetail: View {
     var body: some View {
         VStack {
             ZStack(alignment: .bottomTrailing) {
-                Image(item.mainImage)
+                Image(item.mainImage).resizable().scaledToFit().cornerRadius(10).padding(10)
                 Text("Photo: \(item.photoCredit)")
                     .padding(4)
                     .background(Color.black)

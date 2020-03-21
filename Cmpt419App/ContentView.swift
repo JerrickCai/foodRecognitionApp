@@ -16,7 +16,6 @@ struct ContentView: View {
         VStack {
             NavigationView {
                 List {
-                    
                     ForEach(menu) { section in
                         Section(header: Text(section.name)) {
                             ForEach(section.items) { item in
@@ -25,7 +24,7 @@ struct ContentView: View {
                         }
                     }
                 }
-                .navigationBarTitle("Shopping Cart")
+                .navigationBarTitle("Welcome")
                 .listStyle(GroupedListStyle())
             }
                         
