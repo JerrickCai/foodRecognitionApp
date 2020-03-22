@@ -21,7 +21,7 @@ struct ItemDetail: View {
                     .background(Color.black)
                     .font(.caption)
                     .foregroundColor(.white)
-                    .offset(x: -5, y: -5)
+                    .offset(x: -15, y: -15)
             }
             Text(item.description).padding()
             

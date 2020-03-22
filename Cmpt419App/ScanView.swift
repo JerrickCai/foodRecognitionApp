@@ -23,12 +23,24 @@ struct ScanView: View {
     @State private var someInts:[Int] = []
     @State private var index:Int = 0
     
+    @State private var foodNames:String = "Please Import or Take a Photo"
+    
     @EnvironmentObject var order: Order
     
     var body: some View {
         NavigationView{
-            
             VStack {
+                
+                HStack{
+                    Text(self.foodNames).font(.headline).padding(20)
+                    
+                    if (self.index == 1){
+                        NavigationLink(destination: ItemDetail(item: menu[0].items[self.someInts[0]])) {
+                            Text("Place Order").font(.headline).padding(20).foregroundColor(Color.blue)
+                        }
+                    }
+                }
+                
                 image?.resizable().scaledToFit().cornerRadius(10).padding(10)
                 
                 VStack{
@@ -39,12 +51,12 @@ struct ScanView: View {
                             self.useCamera = true
                         }) {
                             HStack(spacing: 5) {
-                                Image(systemName: "camera.fill")
+                                Image(systemName: "camera")
                                 Text("Take Photo")
                             }.padding()
-                                .background(Color.pink)
+                                .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
                                 .foregroundColor(Color.white)
-                                .cornerRadius(10)
+                                .cornerRadius(20)
                         }.sheet(isPresented: self.$showImagePicker) {
                             PhotoCaptureView(showImagePicker: self.$showImagePicker, image: self.$image, useCamera: self.$useCamera, image_uiImage: self.$image_uiImage)
                         }
@@ -54,79 +66,74 @@ struct ScanView: View {
                             self.showImagePicker = true
                         }) {
                             HStack(spacing: 5) {
-                                Image(systemName: "photo.fill.on.rectangle.fill")
+                                Image(systemName: "photo.on.rectangle")
                                 Text("Import Photo")
                             }.padding()
-                                .background(Color.orange)
+                                .background(LinearGradient(gradient: Gradient(colors: [Color("DarkGreen"), Color("LightGreen")]), startPoint: .leading, endPoint: .trailing))
                                 .foregroundColor(Color.white)
-                                .cornerRadius(10)
+                                .cornerRadius(20)
                         }.sheet(isPresented: self.$showImagePicker) {
                             PhotoCaptureView(showImagePicker: self.$showImagePicker, image: self.$image, useCamera: self.$useCamera, image_uiImage: self.$image_uiImage)
                         }
-                        Button(action: {
-                            let imageData = self.image_uiImage!.jpegData(compressionQuality: 1.0)
-                            AF.upload(multipartFormData: { multipartFormData in
-                                multipartFormData.append(imageData!, withName: "image", fileName:"file.jpg")
-                            }, to: "http://127.0.0.1:5000/")
-                                .responseJSON { response in
-                                    switch (response.result) {
-                                       case .success(let value):
-                                            if let JSON = value as? [String: Any] {
-                                                let data = JSON["data"] as! [String: Any]
-                                                self.someInts = data["labels"]! as! [Int]
-                                                
-                                                print("Index: \(self.someInts[0])")
-                                                
-                                                var imageUrl:String = data["image"]! as! String
-                                                imageUrl = "http://127.0.0.1:5000/" + imageUrl
-                                                
-                                                self.confirmationMessage = "Success!"
-                                                self.showingConfirmation = true
-                                                
-                                                self.index = 1
-                                                
-                                                do {
-                                                    let url = URL(string: imageUrl)
-                                                    let data = try Data(contentsOf: url!)
-                                                    let image = UIImage(data: data)
-                                                    self.image = Image(uiImage: image!)
-                                                }catch let error as NSError {
-                                                    print(error)
-                                                }
-                                            }
-
-                                        case .failure(let error):
-                                            self.confirmationMessage = "Error!"
-                                            self.showingConfirmation = true
-                                            print("Request error: \(error.localizedDescription)")
-                                    }
-                            }
-                            
-                        }) {
-                            HStack(spacing: 5) {
-                                Image(systemName: "photo.fill.on.rectangle.fill")
-                                Text("Upload Photo")
-                            }.padding()
-                                .background(Color.orange)
-                                .foregroundColor(Color.white)
-                                .cornerRadius(10)
-                        }.alert(isPresented: $showingConfirmation) {
-                            Alert(title: Text("Thank you!"), message: Text(confirmationMessage), dismissButton: .default(Text("OK")))
-                        }
+                        
                     }
-                    
-                    if (self.index == 0){
-                        Text("Import or Take a Photo")
-                    }else{
-                        ForEach(someInts, id: \.self) { number in
-                            Text(self.menu[0].items[number].name)
+                    Button(action: {
+                        let imageData = self.image_uiImage!.jpegData(compressionQuality: 1.0)
+                        AF.upload(multipartFormData: { multipartFormData in
+                            multipartFormData.append(imageData!, withName: "image", fileName:"file.jpg")
+                        }, to: "http://127.0.0.1:5000/")
+                            .responseJSON { response in
+                                switch (response.result) {
+                                   case .success(let value):
+                                        if let JSON = value as? [String: Any] {
+                                            let data = JSON["data"] as! [String: Any]
+                                            self.someInts = data["labels"]! as! [Int]
+                                            
+                                            self.foodNames = ""
+                                            for number in self.someInts{
+                                                self.foodNames += self.menu[0].items[number].name + "\n"
+                                            }
+                                            
+                                            print("Index: \(self.someInts[0])")
+                                            
+                                            var imageUrl:String = data["image"]! as! String
+                                            imageUrl = "http://127.0.0.1:5000/" + imageUrl
+                                            
+                                            self.confirmationMessage = "Success!"
+                                            self.showingConfirmation = true
+                                            
+                                            self.index = 1
+                                            
+                                            do {
+                                                let url = URL(string: imageUrl)
+                                                let data = try Data(contentsOf: url!)
+                                                let image = UIImage(data: data)
+                                                self.image = Image(uiImage: image!)
+                                            }catch let error as NSError {
+                                                print(error)
+                                            }
+                                        }
+
+                                    case .failure(let error):
+                                        self.confirmationMessage = "Error!"
+                                        self.showingConfirmation = true
+                                        print("Request error: \(error.localizedDescription)")
+                                }
                         }
                         
-                        NavigationLink(destination: ItemDetail(item: menu[0].items[self.someInts[0]])) {
-                            Text("Place Order")
-                        }
+                    }) {
+                        HStack(spacing: 5) {
+                            Image(systemName: "square.and.arrow.up")
+                            Text("Upload Photo")
+                        }.padding()
+                            .background(Color.orange)
+                            .foregroundColor(Color.white)
+                            .cornerRadius(20)
+                    }.alert(isPresented: $showingConfirmation) {
+                        Alert(title: Text("Thank you!"), message: Text(confirmationMessage), dismissButton: .default(Text("OK")))
                     }
-                }
+                    Spacer()
+                }.navigationBarTitle("Scan Food")
             }
         }
     }
@@ -162,3 +169,4 @@ class ScanOrder: Decodable {
         self.prices = try container.decode(Int.self, forKey: .prices)
     }
 }
+
