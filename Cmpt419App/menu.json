@@ -6,7 +6,7 @@
             {
                 "id": "93e95f12-6bbe-11ea-bc55-0242ac130003",
                 "name": "rice",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 13,
                 "restrictions": ["V"],
                 "description": "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia. It is the agricultural commodity with the third-highest worldwide production (rice, 741.5 million tonnes in 2014), after sugarcane (1.9 billion tonnes) and maize (1.0 billion tonnes)."
@@ -14,7 +14,7 @@
             {
                 "id": "93e9617e-6bbe-11ea-bc55-0242ac130003",
                 "name": "eels on rice",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "S"],
                 "description": "The Asian swamp eel, swamp eel, rice eel, or white ricefield eel (Monopterus albus) is a commercially important, air-breathing species of fish in the family Synbranchidae. Originating in the waters of East and Southeast Asia, it has been identified as an invasive species in the North American Everglades."
@@ -22,7 +22,7 @@
             {
                 "id": "93e96296-6bbe-11ea-bc55-0242ac130003",
                 "name": "pilaf",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["V"],
                 "description": "Pilaf is a rice dish, or in some regions, a wheat dish, whose recipe usually involves cooking in stock or broth, adding spices, and other ingredients such as vegetables or meat, and employing some technique for achieving cooked grains that do not adhere."
@@ -30,7 +30,7 @@
             {
                 "id": "93e96408-6bbe-11ea-bc55-0242ac130003",
                 "name": "chicken and egg on rice",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "N"],
                 "description": "Oyakodon is cooked in one pan where onions, chicken, and egg are simmered in an umami-rich dashi-based sauce. It is then poured over a bowl of fluffy steamed rice. Simple, delicious, and utterly comforting, this is the kind of one-bowl meal you can cook in less than 30 minutes!"
@@ -38,7 +38,7 @@
             {
                 "id": "93e964f8-6bbe-11ea-bc55-0242ac130003",
                 "name": "pork cutlet on rice",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 15,
                 "restrictions": ["G"],
                 "description": "Katsudon is a popular Japanese bowl dish that consists of tonkatsu (breaded deep-fried pork) and eggs cooked in a sweet and salty broth and placed over rice. Katsu, or cutlet in Japanese, refers to meat that's been pounded thin before being cooked."
@@ -46,7 +46,7 @@
             {
                 "id": "93e965ca-6bbe-11ea-bc55-0242ac130003",
                 "name": "beef curry",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Savory and hearty Japanese beef curry recipe made with beef, potatoes, carrots, mushroom, and Japanese curry roux."
@@ -54,7 +54,7 @@
             {
                 "id": "93e96692-6bbe-11ea-bc55-0242ac130003",
                 "name": "sushi",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 14,
                 "restrictions": ["G", "S"],
                 "description": "Sushi is a Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits."
@@ -62,7 +62,7 @@
             {
                 "id": "93e9693a-6bbe-11ea-bc55-0242ac130003",
                 "name": "chicken rice",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G"],
                 "description": "Chicken rice is a dish of poached chicken and seasoned rice, served with chilli sauce and usually with cucumber garnishes. "
@@ -70,7 +70,7 @@
             {
                 "id": "93e96a84-6bbe-11ea-bc55-0242ac130003",
                 "name": "fried rice",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 13,
                 "restrictions": ["V"],
                 "description": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish. Fried rice is a popular component of East Asian, Southeast Asian and certain South Asian cuisines."
@@ -78,7 +78,7 @@
             {
                 "id": "93e96b60-6bbe-11ea-bc55-0242ac130003",
                 "name": "tempura bowl",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V", "S"],
                 "description": "Tempura is a Japanese dish usually consisting of seafood or vegetables that have been battered and deep fried. The dish was influenced by fritter-cooking techniques introduced by the Portuguese residing in Nagasaki in the 16th century. The name originates from the Latin phrase quatuor anni tempora, which refers to the Ember Days, during which no meat is consumed."
@@ -86,7 +86,7 @@
             {
                 "id": "93e96c28-6bbe-11ea-bc55-0242ac130003",
                 "name": "bibimbap",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 6,
                 "restrictions": ["V"],
                 "description": "Bibimbap is served as a bowl of warm white rice topped with namul (sautéed and seasoned vegetables) or kimchi (traditional fermented vegetables) and gochujang (chili pepper paste), soy sauce, or doenjang (a fermented soybean paste). "
@@ -94,7 +94,7 @@
             {
                 "id": "93e96cf0-6bbe-11ea-bc55-0242ac130003",
                 "name": "toast",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Toast is a form of bread that has been browned by exposure to radiant heat. This browning is the result of a Maillard reaction, altering the flavor of the bread and making it firmer so that it is easier to spread toppings on it. Toasting is a common method of making stale bread more palatable."
@@ -102,7 +102,7 @@
             {
                 "id": "93e96dc2-6bbe-11ea-bc55-0242ac130003",
                 "name": "croissant",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "A croissant is a buttery, flaky, viennoiserie pastry of Austrian origin, named for its historical crescent shape. Croissants and other viennoiserie are made of a layered yeast-leavened dough. The dough is layered with butter, rolled and folded several times in succession, then rolled into a sheet, in a technique called laminating. The process results in a layered, flaky texture, similar to a puff pastry."
@@ -110,7 +110,7 @@
             {
                 "id": "93e96e8a-6bbe-11ea-bc55-0242ac130003",
                 "name": "roll bread",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 13,
                 "restrictions": ["G", "V"],
                 "description": "A roll is a small, usually round or oblong individual loaf of bread served as a meal accompaniment (eaten plain or with butter). A roll can be served and eaten whole or cut transversely and dressed with filling between the two halves. Rolls are also commonly used to make sandwiches similar to those produced using slices of bread. "
@@ -118,7 +118,7 @@
             {
                 "id": "93e96f48-6bbe-11ea-bc55-0242ac130003",
                 "name": "raisin bread",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "V"],
                 "description": "Raisin bread is a type of bread made with raisins and flavored with cinnamon. It is usually a white flour or egg dough bread. Aside from white flour, raisin bread is also made with other flours, such as all-purpose flour, oat flour, or whole wheat flour. Some recipes include honey, brown sugar, eggs, or butter."
@@ -126,7 +126,7 @@
             {
                 "id": "93e971fa-6bbe-11ea-bc55-0242ac130003",
                 "name": "chip butty",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 11,
                 "restrictions": ["G", "V"],
                 "description": "A chip butty is a sandwich made with chips (i.e. French fried potatoes) on buttered white bread or a bread roll, often with an added condiment such as brown sauce, ketchup, mayonnaise, or malt vinegar."
@@ -134,7 +134,7 @@
             {
                 "id": "93e972cc-6bbe-11ea-bc55-0242ac130003",
                 "name": "hamburger",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 7,
                 "restrictions": ["G", "V"],
                 "description": "A hamburger (also burger for short) is a food consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mustard, mayonnaise, relish, or special sauce; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger."
@@ -142,7 +142,7 @@
             {
                 "id": "93e9738a-6bbe-11ea-bc55-0242ac130003",
                 "name": "pizza",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "V"],
                 "description": "Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (anchovies, olives, meat, etc.) baked at a high temperature, traditionally in a wood-fired oven. A small pizza is sometimes called a pizzetta."
@@ -150,7 +150,7 @@
             {
                 "id": "93e97452-6bbe-11ea-bc55-0242ac130003",
                 "name": "sandwiches",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 15,
                 "restrictions": ["G", "V"],
                 "description": "A sandwich is a food typically consisting of vegetables, sliced cheese and/or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type. The sandwich began as a portable finger food in the Western world, though over time it has become prevalent worldwide. The 3rd of November marks the National Sandwich Day."
@@ -158,7 +158,7 @@
             {
                 "id": "93e9751a-6bbe-11ea-bc55-0242ac130003",
                 "name": "udon noodle",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Udon is a type of thick, wheat-flour noodle used frequently in Japanese cuisine. It is often served hot as a noodle soup in its simplest form, as kake udon, in a mildly flavoured broth called kakejiru, which is made of dashi, soy sauce, and mirin. It is usually topped with thinly chopped scallions. Other common toppings include tempura, often prawn or kakiage (a type of mixed tempura fritter), or aburaage, a type of deep-fried tofu pockets seasoned with sugar, mirin, and soy sauce."
@@ -166,7 +166,7 @@
             {
                 "id": "93e975d8-6bbe-11ea-bc55-0242ac130003",
                 "name": "tempura udon",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "S"],
                 "description": "Tempura udon is a classic Japanese dish of thick wheat noodles (udon) in a savory hot broth garnished with crisp pieces of tempura vegetables and shrimp."
@@ -174,7 +174,7 @@
             {
                 "id": "93e976b4-6bbe-11ea-bc55-0242ac130003",
                 "name": "soba noodle",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "This Sesame Soba Noodle recipe ticks all of our favorite recipe-making boxes. It’s fast. It’s easy. It’s healthy. It’s totally flavorful. And it goes with so many of our favorite mains, and it even makes a main meal all in itself."
@@ -182,7 +182,7 @@
             {
                 "id": "93e97916-6bbe-11ea-bc55-0242ac130003",
                 "name": "ramen noodle",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Ramen is a Japanese dish with a translation of pulled noodles. It consists of Chinese wheat noodles served in a meat or (occasionally) fish-based broth, often flavored with soy sauce or miso, and uses toppings such as sliced pork, nori (dried seaweed), menma, and scallions. Nearly every region in Japan has its own variation of ramen, such as the tonkotsu (pork bone broth) ramen of Kyushu and the miso ramen of Hokkaido. Mazemen is the name of a ramen dish that is not served in a soup, but rather with a sauce (such as tare), like noodles that are served with a sweet and sour sauce."
@@ -190,7 +190,7 @@
             {
                 "id": "93e979f2-6bbe-11ea-bc55-0242ac130003",
                 "name": "beef noodle",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 13,
                 "restrictions": ["G", "V"],
                 "description": "Beef noodle soup is a noodle soup made of stewed or red braised beef, beef broth, vegetables and Chinese noodles. It exists in various forms throughout East and Southeast Asia. The Clear Broth Beef noodle soup was allegedly invented by the Hui people during the Tang dynasty and is commonly known as Lanzhou beef noodle soup."
@@ -198,7 +198,7 @@
             {
                 "id": "93e97aba-6bbe-11ea-bc55-0242ac130003",
                 "name": "tensin noodle",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Japanese tamogo donburi, Tensindong is the motif for tensin noodles. Fully covered in sauce, it is moist and tender to eat. It is esthetically pleasing and suitable as a dish when receiving guests."
@@ -206,7 +206,7 @@
             {
                 "id": "93e97b82-6bbe-11ea-bc55-0242ac130003",
                 "name": "fried noodle",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 6,
                 "restrictions": ["G", "V"],
                 "description": "Fried noodles are common throughout East Asia, Southeast Asia and South Asia. Many varieties, cooking styles, and ingredients exist."
@@ -214,7 +214,7 @@
             {
                 "id": "93e97c4a-6bbe-11ea-bc55-0242ac130003",
                 "name": "spaghetti",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 13,
                 "restrictions": ["G", "V"],
                 "description": "Spaghetti is a long, thin, solid, cylindrical pasta. It is a staple food of traditional Italian cuisine. Like other pasta, spaghetti is made of milled wheat and water and sometimes enriched with vitamins and minerals. Italian spaghetti is typically made from durum wheat semolina. Usually the pasta is white because refined flour is used, but whole wheat flour may be added. Spaghettoni is a thicker form of spaghetti, while capellini is a very thin spaghetti."
@@ -222,7 +222,7 @@
             {
                 "id": "93e97d12-6bbe-11ea-bc55-0242ac130003",
                 "name": "Japanese-style pancake",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 7,
                 "restrictions": ["G", "V"],
                 "description": "Okonomiyaki is the ultra popular Japanese style savoury pancake, aka Japanese Pizza! Okonomi translates to as you like and yaki to “grilled” giving you grilled as you like and as the name indicates, you can make these with your favourite filling ad toppings!"
@@ -230,7 +230,7 @@
             {
                 "id": "93e97dda-6bbe-11ea-bc55-0242ac130003",
                 "name": "takoyaki",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Takoyaki is a ball-shaped Japanese snack or appetizer made of a wheat flour-based batter and cooked in a special molded pan. It is typically filled with minced or diced octopus (tako), tempura scraps (tenkasu), pickled ginger (beni shoga), and green onion (negi)."
@@ -238,7 +238,7 @@
             {
                 "id": "93e97eac-6bbe-11ea-bc55-0242ac130003",
                 "name": "gratin",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 11,
                 "restrictions": ["G", "V"],
                 "description": "Gratin (French pronunciation: ​[ɡʁatɛ̃]) is a widespread culinary technique in which an ingredient is topped with a browned crust, often using breadcrumbs, grated cheese, egg or butter."
@@ -246,7 +246,7 @@
             {
                 "id": "93e980d2-6bbe-11ea-bc55-0242ac130003",
                 "name": "sauteed vegetables",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 7,
                 "restrictions": ["G", "V"],
                 "description": "Sauteed vegetables deserve a shout out: They add color, sparkle, and nutrition to any meal."
@@ -254,7 +254,7 @@
             {
                 "id": "93e981a4-6bbe-11ea-bc55-0242ac130003",
                 "name": "croquette",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 15,
                 "restrictions": ["G", "V"],
                 "description": "A croquette is a small breadcrumbed fried food roll containing, usually as main ingredients, ground meat (veal, beef, chicken, or turkey), shellfish, fish, ham, cheese, mashed potatoes or vegetables, and mixed with béchamel or brown sauce, and soaked white bread, egg, onion, spices and herbs, wine, milk, beer, or some combination, sometimes with a filling, such as sautéed onions, mushrooms, or boiled eggs."
@@ -262,7 +262,7 @@
             {
                 "id": "93e9826c-6bbe-11ea-bc55-0242ac130003",
                 "name": "grilled eggplant",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "This grilled side goes well with pasta or meats also made on the grill. Thanks to the Cajun seasoning, it gets more attention than an ordinary veggie."
@@ -270,7 +270,7 @@
             {
                 "id": "93e98334-6bbe-11ea-bc55-0242ac130003",
                 "name": "sauteed spinach",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Heat the olive oil in a large skillet over medium heat. Add the spinach to the skillet and cover; allow to cook 5 minutes. Stir in the garlic salt and cover again for another 5 minutes; remove from heat. Sprinkle with Parmesan cheese to serve."
@@ -278,7 +278,7 @@
             {
                 "id": "93e983f2-6bbe-11ea-bc55-0242ac130003",
                 "name": "vegetable tempura",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 14,
                 "restrictions": ["G", "V"],
                 "description": "Kakiage tempura is a type of tempura. Usually, thinly cut vegetables or vegetables cut like sticks are the main ingredients that are then deep-fried with tempura batter. Kakiage tempura is a popular side dish and can be served in many different ways, such as Kakiage donburi, Kakiage soba and Kakiage udon, etc."
@@ -286,7 +286,7 @@
             {
                 "id": "93e984b0-6bbe-11ea-bc55-0242ac130003",
                 "name": "miso soup",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Miso soup is a traditional Japanese soup consisting of a stock called into which softened miso paste is mixed. Many ingredients are added depending on regional and seasonal recipes, and personal preference."
@@ -294,7 +294,7 @@
             {
                 "id": "93e98578-6bbe-11ea-bc55-0242ac130003",
                 "name": "potage",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "Potage is a category of thick soups, stews, or porridges, in some of which meat and vegetables are boiled together with water until they form into a thick mush."
@@ -302,7 +302,7 @@
             {
                 "id": "93e98776-6bbe-11ea-bc55-0242ac130003",
                 "name": "sausage",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "V"],
                 "description": "Sausages are a meat product usually made from ground meat, often pork, beef, or poultry, along with salt, spices and other flavourings. Other ingredients such as grains or breadcrumbs may be included as fillers or extenders. Some sausages include other ingredients for flavour."
@@ -310,7 +310,7 @@
             {
                 "id": "93e9883e-6bbe-11ea-bc55-0242ac130003",
                 "name": "oden",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 13,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -318,7 +318,7 @@
             {
                 "id": "93e98906-6bbe-11ea-bc55-0242ac130003",
                 "name": "omelet",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -326,7 +326,7 @@
             {
                 "id": "93e989c4-6bbe-11ea-bc55-0242ac130003",
                 "name": "ganmodoki",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -334,7 +334,7 @@
             {
                 "id": "93e98a82-6bbe-11ea-bc55-0242ac130003",
                 "name": "jiaozi",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 6,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -342,7 +342,7 @@
             {
                 "id": "93e98b40-6bbe-11ea-bc55-0242ac130003",
                 "name": "stew",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -350,7 +350,7 @@
             {
                 "id": "93e98bfe-6bbe-11ea-bc55-0242ac130003",
                 "name": "teriyaki grilled fish",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -358,7 +358,7 @@
             {
                 "id": "93e98e1a-6bbe-11ea-bc55-0242ac130003",
                 "name": "fried fish",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -366,7 +366,7 @@
             {
                 "id": "93e98ee2-6bbe-11ea-bc55-0242ac130003",
                 "name": "grilled salmon",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 11,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -374,7 +374,7 @@
             {
                 "id": "93e98faa-6bbe-11ea-bc55-0242ac130003",
                 "name": "salmon meuniere ",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 11,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -382,7 +382,7 @@
             {
                 "id": "93e99068-6bbe-11ea-bc55-0242ac130003",
                 "name": "sashimi",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -390,7 +390,7 @@
             {
                 "id": "93e991a8-6bbe-11ea-bc55-0242ac130003",
                 "name": "grilled pacific saury ",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 15,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -398,7 +398,7 @@
             {
                 "id": "93e99284-6bbe-11ea-bc55-0242ac130003",
                 "name": "sukiyaki",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -406,7 +406,7 @@
             {
                 "id": "93e994e6-6bbe-11ea-bc55-0242ac130003",
                 "name": "sweet and sour pork",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -414,7 +414,7 @@
             {
                 "id": "93e995b8-6bbe-11ea-bc55-0242ac130003",
                 "name": "lightly roasted fish",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -422,7 +422,7 @@
             {
                 "id": "93e99676-6bbe-11ea-bc55-0242ac130003",
                 "name": "steamed egg hotchpotch",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 14,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -430,7 +430,7 @@
             {
                 "id": "93e9973e-6bbe-11ea-bc55-0242ac130003",
                 "name": "tempura",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 14,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -438,7 +438,7 @@
             {
                 "id": "93e997fc-6bbe-11ea-bc55-0242ac130003",
                 "name": "fried chicken",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -446,7 +446,7 @@
             {
                 "id": "93e998ba-6bbe-11ea-bc55-0242ac130003",
                 "name": "sirloin cutlet ",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 15,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -454,7 +454,7 @@
             {
                 "id": "93e99982-6bbe-11ea-bc55-0242ac130003",
                 "name": "nanbanzuke",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -462,7 +462,7 @@
             {
                 "id": "93e99a4a-6bbe-11ea-bc55-0242ac130003",
                 "name": "boiled fish",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -470,7 +470,7 @@
             {
                 "id": "93e99ce8-6bbe-11ea-bc55-0242ac130003",
                 "name": "seasoned beef with potatoes",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -478,7 +478,7 @@
             {
                 "id": "93e99da6-6bbe-11ea-bc55-0242ac130003",
                 "name": "hambarg steak",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -486,7 +486,7 @@
             {
                 "id": "93e99e64-6bbe-11ea-bc55-0242ac130003",
                 "name": "beef steak",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 7,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -494,7 +494,7 @@
             {
                 "id": "93e99f2c-6bbe-11ea-bc55-0242ac130003",
                 "name": "dried fish",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 11,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -502,7 +502,7 @@
             {
                 "id": "93e9a896-6bbe-11ea-bc55-0242ac130003",
                 "name": "ginger pork saute",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 13,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -510,7 +510,7 @@
             {
                 "id": "93e9a972-6bbe-11ea-bc55-0242ac130003",
                 "name": "spicy chili-flavored tofu",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 13,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -518,7 +518,7 @@
             {
                 "id": "93e9ac42-6bbe-11ea-bc55-0242ac130003",
                 "name": "yakitori",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -526,7 +526,7 @@
             {
                 "id": "93e9ad28-6bbe-11ea-bc55-0242ac130003",
                 "name": "cabbage roll",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 7,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -534,7 +534,7 @@
             {
                 "id": "93e9ade6-6bbe-11ea-bc55-0242ac130003",
                 "name": "rolled omelet",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -542,7 +542,7 @@
             {
                 "id": "93e9aeae-6bbe-11ea-bc55-0242ac130003",
                 "name": "egg sunny-side up",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -550,7 +550,7 @@
             {
                 "id": "93e9af76-6bbe-11ea-bc55-0242ac130003",
                 "name": "fermented soybeans",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 14,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -558,7 +558,7 @@
             {
                 "id": "93e9b03e-6bbe-11ea-bc55-0242ac130003",
                 "name": "cold tofu",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -566,7 +566,7 @@
             {
                 "id": "93e9b106-6bbe-11ea-bc55-0242ac130003",
                 "name": "egg roll",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -574,7 +574,7 @@
             {
                 "id": "93e9b1c4-6bbe-11ea-bc55-0242ac130003",
                 "name": "chilled noodle",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 7,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -582,7 +582,7 @@
             {
                 "id": "93e9b3fe-6bbe-11ea-bc55-0242ac130003",
                 "name": "stir-fried beef and peppers",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -590,7 +590,7 @@
             {
                 "id": "93e9b4d0-6bbe-11ea-bc55-0242ac130003",
                 "name": "simmered pork",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -598,7 +598,7 @@
             {
                 "id": "93e9b598-6bbe-11ea-bc55-0242ac130003",
                 "name": "boiled chicken and vegetables",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 7,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -606,7 +606,7 @@
             {
                 "id": "93e9b66a-6bbe-11ea-bc55-0242ac130003",
                 "name": "sashimi bowl",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -614,7 +614,7 @@
             {
                 "id": "93e9b732-6bbe-11ea-bc55-0242ac130003",
                 "name": "sushi bowl",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -622,7 +622,7 @@
             {
                 "id": "93e9b87c-6bbe-11ea-bc55-0242ac130003",
                 "name": "fish-shaped pancake with bean jam",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -630,7 +630,7 @@
             {
                 "id": "93e9b962-6bbe-11ea-bc55-0242ac130003",
                 "name": "shrimp with chill source",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -638,7 +638,7 @@
             {
                 "id": "93e9ba2a-6bbe-11ea-bc55-0242ac130003",
                 "name": "roast chicken",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -646,7 +646,7 @@
             {
                 "id": "93e9bc6e-6bbe-11ea-bc55-0242ac130003",
                 "name": "steamed meat dumpling",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 7,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -654,7 +654,7 @@
             {
                 "id": "93e9bd40-6bbe-11ea-bc55-0242ac130003",
                 "name": "omelet with fried rice",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 14,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -662,7 +662,7 @@
             {
                 "id": "93e9be08-6bbe-11ea-bc55-0242ac130003",
                 "name": "cutlet curry",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 10,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -670,7 +670,7 @@
             {
                 "id": "93e9bed0-6bbe-11ea-bc55-0242ac130003",
                 "name": "spaghetti meat sauce",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 11,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -678,7 +678,7 @@
             {
                 "id": "93e9bf98-6bbe-11ea-bc55-0242ac130003",
                 "name": "fried shrimp",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -686,7 +686,7 @@
             {
                 "id": "93e9c060-6bbe-11ea-bc55-0242ac130003",
                 "name": "potato salad",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 8,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -694,7 +694,7 @@
             {
                 "id": "93e9c128-6bbe-11ea-bc55-0242ac130003",
                 "name": "green salad",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -702,7 +702,7 @@
             {
                 "id": "93e9c2b8-6bbe-11ea-bc55-0242ac130003",
                 "name": "macaroni salad",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -710,7 +710,7 @@
             {
                 "id": "93e9c51a-6bbe-11ea-bc55-0242ac130003",
                 "name": "Japanese tofu and vegetable chowder",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 15,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -718,7 +718,7 @@
             {
                 "id": "93e9c5ec-6bbe-11ea-bc55-0242ac130003",
                 "name": "pork miso soup",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 14,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -726,7 +726,7 @@
             {
                 "id": "93e9c6b4-6bbe-11ea-bc55-0242ac130003",
                 "name": "chinese soup",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 7,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -734,7 +734,7 @@
             {
                 "id": "93e9c77c-6bbe-11ea-bc55-0242ac130003",
                 "name": "beef bowl",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 11,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -742,7 +742,7 @@
             {
                 "id": "93e9c844-6bbe-11ea-bc55-0242ac130003",
                 "name": "kinpira-style sauteed burdock",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 11,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -750,7 +750,7 @@
             {
                 "id": "93e9c90c-6bbe-11ea-bc55-0242ac130003",
                 "name": "rice ball",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 6,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -758,7 +758,7 @@
             {
                 "id": "93e9c9d4-6bbe-11ea-bc55-0242ac130003",
                 "name": "pizza toast",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -766,7 +766,7 @@
             {
                 "id": "93e9cbfa-6bbe-11ea-bc55-0242ac130003",
                 "name": "dipping noodles",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 12,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -774,7 +774,7 @@
             {
                 "id": "93e9cccc-6bbe-11ea-bc55-0242ac130003",
                 "name": "hot dog",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 9,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -782,7 +782,7 @@
             {
                 "id": "93e9cd8a-6bbe-11ea-bc55-0242ac130003",
                 "name": "french fries",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 14,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -790,7 +790,7 @@
             {
                 "id": "93e9ce5c-6bbe-11ea-bc55-0242ac130003",
                 "name": "mixed rice",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 5,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
@@ -798,7 +798,7 @@
             {
                 "id": "93e9cf24-6bbe-11ea-bc55-0242ac130003",
                 "name": "goya chanpuru",
-                "photoCredit": "UECFOOD",
+                "photoCredit": "Joseph Gonzalez",
                 "price": 11,
                 "restrictions": ["G", "V"],
                 "description": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth."
