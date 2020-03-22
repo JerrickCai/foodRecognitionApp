@@ -33,7 +33,7 @@ struct ScanView: View {
                 
                 HStack{
                     Text(self.foodNames).font(.headline).padding(20)
-                    
+                    Spacer()
                     if (self.index == 1){
                         NavigationLink(destination: ItemDetail(item: menu[0].items[self.someInts[0]])) {
                             Text("Place Order").font(.headline).padding(20).foregroundColor(Color.blue)
